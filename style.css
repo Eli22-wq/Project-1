@@ -4,6 +4,7 @@
 
 body {
     background-color: rgb(210, 152, 236);
+    background-image: linear-gradient(to right, rgb(204, 127, 255), rgb(122, 52, 253)); /* I added this gradient color to the background */
     overflow-x: hidden;
 }
 
@@ -82,4 +83,5 @@ p {
     margin-left: 6rem;
     /* max-inline-size: 1000px;
     margin-inline: auto; Saving this for later. This code centers all content into the middle*/
+
 }
